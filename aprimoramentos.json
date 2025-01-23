@@ -1,0 +1,8 @@
+{
+    "shoot_delay": 0.7,
+    "speed": 275,
+    "lives": 2,
+    "dinheiro": 435,
+    "shoot_speed": 280,
+    "valor_compra": 250
+}

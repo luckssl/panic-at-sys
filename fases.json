@@ -1,0 +1,31 @@
+{
+    "fase1":{
+        "background": "background_fase1.jpg",
+        "inimigos": [
+            {"tipo": "inimigoPadrao", "speed": 100, "shoot_delay": 4, "shoot_tick": 0},
+            {"tipo": "inimigo2", "x": 300, "y": 400}
+        ],
+        "num_inimigos_inicial": 4,
+        "total_ondas": 3
+    },
+    "fase2":{
+        "background": "background_fase2.jpg",
+        "inimigos": [
+            {"tipo": "inimigoPadrao", "speed": 150, "shoot_delay": 1, "shoot_tick": 0},
+            {"tipo": "inimigoInvestida", "x": 300, "y": 400}
+        ],
+        "num_inimigos_inicial": 4,
+        "total_ondas": 3
+    },
+    "fase3":{
+        "background": "background_fase3.png",
+        "inimigos": [
+            {"tipo": "inimigoPadrao", "speed": 200, "shoot_delay": 1, "shoot_tick": 0},
+            {"tipo": "inimigoInvestida", "x": 300, "y": 400},
+            {"tipo": "inimigoExplosivo", "x": 300, "y": 400}
+        ],
+        "num_inimigos_inicial": 4,
+        "total_ondas": 3
+    }
+}
+  
