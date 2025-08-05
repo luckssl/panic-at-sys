@@ -1,5 +1,5 @@
 # panic-at-sys
-To run this game, paste the following command on your terminal:
+To run this game, paste the following command on your terminal (you have to be inside the game directory):
 - Windows: python main.py
 - Linux: python3 main.py
 
